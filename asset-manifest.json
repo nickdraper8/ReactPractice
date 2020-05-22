@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactPractice/static/css/main.628ca412.chunk.css",
+    "main.js": "/ReactPractice/static/js/main.7ebacf1a.chunk.js",
+    "main.js.map": "/ReactPractice/static/js/main.7ebacf1a.chunk.js.map",
+    "runtime-main.js": "/ReactPractice/static/js/runtime-main.27ab83be.js",
+    "runtime-main.js.map": "/ReactPractice/static/js/runtime-main.27ab83be.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ReactPractice/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7ec5fd90.chunk.js": "/ReactPractice/static/js/2.7ec5fd90.chunk.js",
+    "static/js/2.7ec5fd90.chunk.js.map": "/ReactPractice/static/js/2.7ec5fd90.chunk.js.map",
+    "index.html": "/ReactPractice/index.html",
+    "precache-manifest.0edf9b55a0ea5564060a7b9884718c80.js": "/ReactPractice/precache-manifest.0edf9b55a0ea5564060a7b9884718c80.js",
+    "service-worker.js": "/ReactPractice/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ReactPractice/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.628ca412.chunk.css.map": "/ReactPractice/static/css/main.628ca412.chunk.css.map",
+    "static/js/2.7ec5fd90.chunk.js.LICENSE.txt": "/ReactPractice/static/js/2.7ec5fd90.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactPractice/static/media/badrobot.d4aa34b4.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27ab83be.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7ec5fd90.chunk.js",
+    "static/css/main.628ca412.chunk.css",
+    "static/js/main.7ebacf1a.chunk.js"
+  ]
+}
